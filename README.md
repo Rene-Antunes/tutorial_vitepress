@@ -15,7 +15,6 @@ Neste tutorial, vou trazer uma série de conteúdos passo a passo de como criar 
 - Inicializar via CLI o assistente de instalação do VitePress, que ajuda a construir um projeto básico
 
 ## Tecnologias usadas:
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [NodeJs](https://nodejs.org/en/download)
 - [VSCode](https://code.visualstudio.com/download)
 - Gerenciador de pacotes `npm` que vem por padrão com Node.js.
