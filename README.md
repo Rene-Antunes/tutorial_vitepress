@@ -100,7 +100,7 @@ Visite a URL no seu navegador para ver o seu novo site em ação!
 
 Podemos ver que é gerado um layout padrão, mas nesse momento, não vamos nos aprofundar na esturura do sistema. O que devemos saber é que o arquivo `config.js`
 permite que você personalize vários aspectos do seu site VitePress. Mas como dissemos antes não vamos entrar em detalhes para não gerar confusão.
-O arquivo `index.md` é a porta de entrada da aplicação quando acessar a url correspondente, vamos deixa-lo do jeito que está. Vamos usa-lo como exemplo
+O arquivo `index.md` é a porta de entrada da aplicação ao acessar a url correspondente, vamos deixa-lo do jeito que está. Vamos usa-lo como exemplo
 para o que podemos fazer com vitepress.
 
 Para continuarmos, na raiz do projeto, vamos criar um arquivo `about.md`. Este nome poderia ser qualquer um, mas aqui vamos escolher este. Este é um arquivo Markdown,
